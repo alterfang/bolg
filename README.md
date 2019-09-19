@@ -7,3 +7,4 @@
 * [网站添加Loading...](https://github.com/alterfang/bolg/issues/4)
 * [静态博客增加搜索功能](https://github.com/alterfang/bolg/issues/5)
 * [点击加载更多文章](https://github.com/alterfang/bolg/issues/6)
+* [网站添加灯箱效果](https://github.com/alterfang/bolg/issues/7)
